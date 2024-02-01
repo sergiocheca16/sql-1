@@ -1,4 +1,4 @@
-# Ejercicios de SQL - Parte de Lectura
+# Ejercicios de SQL - CONSULTAS
 
 ## Objetivo
 Estos ejercicios están diseñados para ayudarte a practicar y mejorar tus habilidades de lectura en SQL. Cada ejercicio contiene una consulta SQL y se espera que interpretes el resultado que devolverá.
